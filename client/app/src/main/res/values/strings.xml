@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">仰卧起坐计数</string>
+    <string name="settings">设置</string>
+    <string name="label_url">接口地址（URL）</string>
+    <string name="hint_url">http://192.168.1.100:8080</string>
+    <string name="label_path_get">GET 接口路径</string>
+    <string name="hint_path_get">/get</string>
+    <string name="label_path_post">POST 接口路径</string>
+    <string name="hint_path_post">/post</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="saved">已保存</string>
+    <string name="loading">加载中…</string>
+    <string name="tip_set_url">请先在设置中填写接口地址</string>
+    <string name="cooldown_tip">冷却中 %1$d 秒</string>
+</resources>
